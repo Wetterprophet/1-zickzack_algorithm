@@ -10,10 +10,10 @@ At first, everyone in the course wrote instructions for everyone else in the cou
 - Zeichne Punkte, die jeweils mindestens 1cm voneinander entfernt sind, aber vom vorher gezeichneten Punkt maximal 5cm entfernt sind. Stoppe erst, wenn dies nicht mehr möglich ist.
 
 # Results:
-![](1-1-1.jpg)
-![](1-1-2.jpg)
-![](1-1-3.jpg)
-![](1-1-4.jpg)
+![](pic/1-1-1.jpg)
+![](pic/1-1-2.jpg)
+![](pic/1-1-3.jpg)
+![](pic/1-1-4.jpg)
 
 At latest at the second try, we found out that it’s all about giving the right directions. The goal should not be to get people to draw exactly the reproduced version of what you intended it to be, but rather “something  whatsoever without breaking the rules”
 
@@ -28,10 +28,10 @@ At latest at the second try, we found out that it’s all about giving the right
 7. Zeichne in die Mitte alle Dreiecke, die mit einer Kante an eben schraffiertes Dreieck anschließen, einen fetten Punkt.
 
 # Results:
-![](1-2-1.jpg)
-![](1-2-2.jpg)
-![](1-2-3.jpg)
-![](1-2-4.jpg)
+![](pic/1-2-1.jpg)
+![](pic/1-2-2.jpg)
+![](pic/1-2-3.jpg)
+![](pic/1-2-4.jpg)
 
 The feeling I had after letting actual people do this algorithm, was that, (depending on his character) the drawer will most likely try to find a way to individualize and sabotage your rules. For example, one person drew the “closed frame” with rounded corners, so that there are no corner-edge points.
 After that, including parameters, I changed my second algorithm to the following:
@@ -46,27 +46,27 @@ After that, including parameters, I changed my second algorithm to the following
 8. Schneide die Form im Gesamten aus, wähle einen Hintergrund deiner Wahl und fotografiere es.
 
 # Results:
-![](1-3-1.jpg)
-![](1-3-2.jpg)
-![](1-3-3.jpg)
-![](1-3-4.jpg)
+![](pic/1-3-1.jpg)
+![](pic/1-3-2.jpg)
+![](pic/1-3-3.jpg)
+![](pic/1-3-4.jpg)
 
 The next step was to convert the instructions for humans into something a computer could paint me.
 Obviously, my parameters like drinking habits and hair color wouldn’t work with a machine, so i set some variables to random. The result was something completely senseless but beautiful to look at.
 to integrate a parameter, i chose the time. my triangles would serve as the finger of the clock that shows the seconds, so if you start the code, it instantly draws as many triangles connected with each other as seconds are elapsed since the last full minute and continues to count them up until the next minute is reached.
 
 # Results:
-![](1-4-0001.png)
-![](1-4-0017.png)
-![](1-4-0075.png)
-![](1-4-0169.png)
-![](1-4-0171.png)
-![](1-4-0256.png)
-![](1-4-0313.png)
-![](1-4-0420.png)
-![](1-4-0631.png)
-![](1-4-1022.png)
-![](1-4-1458.png)
+![](pic/1-4-0001.png)
+![](pic/1-4-0017.png)
+![](pic/1-4-0075.png)
+![](pic/1-4-0169.png)
+![](pic/1-4-0171.png)
+![](pic/1-4-0256.png)
+![](pic/1-4-0313.png)
+![](pic/1-4-0420.png)
+![](pic/1-4-0631.png)
+![](pic/1-4-1022.png)
+![](pic/1-4-1458.png)
 
 
 ## License:
