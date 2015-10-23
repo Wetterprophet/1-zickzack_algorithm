@@ -60,7 +60,6 @@ to integrate a parameter, i chose the time. my triangles would serve as the fing
 ![](pic/1-4-0017.png)
 ![](pic/1-4-0075.png)
 ![](pic/1-4-0169.png)
-![](pic/1-4-0171.png)
 ![](pic/1-4-0256.png)
 ![](pic/1-4-0313.png)
 ![](pic/1-4-0420.png)
